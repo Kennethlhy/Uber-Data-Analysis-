@@ -4,7 +4,7 @@
 This project involves performing data analytics on Uber data using various technologies such as Python, Google Cloud Platform (GCP), GCP Storage, Compute Instance, BigQuery, Looker Studio, and a Modern Data Pipeline Tool called Mage. The project comes from a data analytics youtube tutorial. 
 
 **Tools**  
-Google Cloud Storage 
+Google Cloud Storage
 Compute Instance
 BigQuery
 Looker Studio
