@@ -29,6 +29,10 @@ Include one fact table and others dimension tables
 
 Please see in https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
+**Datastudio**
+![Looker](https://github.com/Kennethlhy/Uber-Data-Analysis-/assets/118910691/fde2c17f-ecb9-474b-9ba3-f6aa72bdbc0b)
+Dashboard link https://lookerstudio.google.com/s/rRi4JDALf7M
+
 **Challenge**
 1. Mage AI faces open too much files error and shut down when opertaing in vm. Solution: open a new vm in GCP wtih more memory and CPUs so that it can have memory to open files
 
